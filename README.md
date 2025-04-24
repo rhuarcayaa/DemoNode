@@ -1,6 +1,6 @@
-# -------------------------------
+# ------------------------------------
 # Autor: Remigio Huarcaya Almeyda
-# -------------------------------
+# ------------------------------------
 # Sistema de Gestión de Vendedores con Node.js
 
 Este es un sistema CRUD (Create, Read, Update, Delete) para la gestión de vendedores desarrollado con Node.js, Express y MySQL.
